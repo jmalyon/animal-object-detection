@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6617.jpg</filename>
+	<path>/home/ubuntu/training_project/images/6617.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Animal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1164</xmin>
+			<ymin>1426</ymin>
+			<xmax>1877</xmax>
+			<ymax>1798</ymax>
+		</bndbox>
+	</object>
+</annotation>
